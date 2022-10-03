@@ -1,0 +1,26 @@
+body{
+    font-family: latha; 
+    color:white;
+
+    background-image: url(https://img.freepik.com/free-photo/cappuccino-glass-with-croissant-wooden-circular-tray_23-2147908386.jpg?w=996&t=st=1663538950~exp=1663539550~hmac=9aa504e9dd7d9fc489ec86c4b62d611c44bbf9b4c4399c8d936b7c968bdef1d5);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    }
+
+    .box{width: 900px;
+    float:right;
+    border:1px solid rgb(0, 0, 0);}
+
+     .box ul li{
+       width: 120px;
+       float:left;
+       margin: 10px auto;
+       text-align: center;
+     }
+
+     .box ul li a{ text-decoration: none;
+     color:darkgrey;}
+
+     .box ul li:hover {background-color: green;}
+     .box ul li a:hover { color:white;}
